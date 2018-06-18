@@ -1,2 +1,2 @@
 # helloworld
-Typical hello world repo
+tHIS IS MY FIRST PUBLIC REPO
